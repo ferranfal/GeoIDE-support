@@ -1,8 +1,36 @@
 # GeoIDE
 
-GeoIDE is a free Visual Studio Code extension for interactive Python data science and geospatial work. It keeps Python variables alive between executions and brings a Variable Explorer, scientific plots, tables and interactive maps into one panel.
+**Earth Data Science**
+
+GIS, Scientific Variables and Interactive Maps for Visual Studio Code.
+
+**Interactive Python Console · Variable Explorer · Scientific Plots · Geospatial Views**
+
+GeoIDE is a free Visual Studio Code extension that keeps Python execution, scientific data inspection and spatial exploration together in one workspace.
 
 This public repository is the official information and support page for GeoIDE. It does **not** contain the proprietary development source code.
+
+## Interactive Map — 2D and 3D
+
+![GeoIDE Interactive Map with a worldwide satellite view in 2D and a Point Cloud in 3D](media/marketplace-map.jpg)
+
+- Explore raster and vector data over a worldwide satellite basemap.
+- Choose bands, dates and RGB composites; adjust colours, opacity and layer order.
+- View supported Point Clouds in 2D or 3D, inspect points and measure distances.
+
+## Interactive Plots
+
+![GeoIDE interactive scientific time-series plot](media/marketplace-plot.jpg)
+
+- Create histograms, scatter plots and time series directly from compatible variables.
+- Pan, zoom, reset and download the current view.
+
+## Variable Explorer
+
+![GeoIDE Variable Explorer with scientific and geospatial variables](media/marketplace-variables.jpg)
+
+- Inspect NumPy, pandas, xarray and supported geospatial variables.
+- Select any variable and delete selected values from the current Python session after confirmation.
 
 ## Main features
 
@@ -60,5 +88,3 @@ Python runs in the environment selected by the user. GeoIDE does not include ana
 ## License
 
 GeoIDE is free to use, including for commercial work, under the [GeoIDE Free-of-Charge Proprietary Software License](LICENSE). It is not open-source software. Third-party components and services retain their own terms and notices.
-
-© 2026 Ferran Fernández Alemany.
