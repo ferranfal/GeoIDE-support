@@ -10,9 +10,13 @@ GeoIDE is a free Visual Studio Code extension that keeps Python execution, scien
 
 This public repository is the official information and support page for GeoIDE. It does **not** contain the proprietary development source code.
 
+## Video demo
+
+[Watch GeoIDE load, display and explore Sentinel-2 and NDVI data in a 53-second screen recording (WebM, no audio).](media/geoide-ndvi-demo.webm)
+
 ## Interactive Map — 2D and 3D
 
-![GeoIDE Interactive Map with a worldwide satellite view in 2D and a Point Cloud in 3D](media/marketplace-map.jpg)
+![GeoIDE showing a Sentinel-2 NDVI layer over Valencia in the interactive map](media/marketplace-map.png)
 
 - Explore raster and vector data over a worldwide satellite basemap.
 - Choose bands, dates and RGB composites; adjust colours, opacity and layer order.
@@ -20,14 +24,14 @@ This public repository is the official information and support page for GeoIDE. 
 
 ## Interactive Plots
 
-![GeoIDE interactive scientific time-series plot](media/marketplace-plot.jpg)
+![GeoIDE histogram of Sentinel-2 NDVI values for 5 June 2025](media/marketplace-plot.png)
 
 - Create histograms, scatter plots and time series directly from compatible variables.
 - Pan, zoom, reset and download the current view.
 
 ## Variable Explorer
 
-![GeoIDE Variable Explorer with scientific and geospatial variables](media/marketplace-variables.jpg)
+![GeoIDE Variable Explorer listing bands, bounds, catalog, NDVI and Sentinel-2 datasets](media/marketplace-variables.png)
 
 - Inspect NumPy, pandas, xarray and supported geospatial variables.
 - Select any variable and delete selected values from the current Python session after confirmation.
