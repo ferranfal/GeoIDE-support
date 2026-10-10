@@ -12,9 +12,11 @@ This public repository is the official information and support page for GeoIDE. 
 
 ## Video demo
 
-[Watch GeoIDE load, display and explore Sentinel-2 and NDVI data in a 53-second screen recording (MP4, no audio).](media/geoide-ndvi-demo.mp4)
+![Animated preview of GeoIDE loading, displaying and exploring Sentinel-2 and NDVI data](media/geoide-ndvi-demo.webp)
 
-[Download the original WebM recording.](media/geoide-ndvi-demo.webm)
+[Open or download the full 53-second MP4 demo (no audio).](https://github.com/ferranfal/GeoIDE-support/raw/refs/heads/main/media/geoide-ndvi-demo.mp4)
+
+[Download the original WebM recording.](https://github.com/ferranfal/GeoIDE-support/raw/refs/heads/main/media/geoide-ndvi-demo.webm)
 
 ## Interactive Map — 2D and 3D
 
